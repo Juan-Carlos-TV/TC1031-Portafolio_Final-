@@ -3,6 +3,7 @@ Nombres y matrículas:
     Esthela Sofía Cedillo Moreno A00828420
     Rodrigo Pelayo Ochoa A00827285
     Juan Carlos Triana Vela A00827629
+    Alumno de prueba 
 
 Equipo 17
 */
